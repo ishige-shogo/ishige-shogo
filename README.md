@@ -9,9 +9,20 @@
 
 <details>
   <summary>I love <strong>"MANGA"</strong>!</summary>
-  
-
-
+  my favorite titles
+  + BokurawaMinnaKawaisou
+  + TonikakuKawaii
+  + Gurandblue
+  + D-flag
+  + Working!
+  + KaguyasamahaKokurasetai
+  + AkamegaKill
+  + GotoubunnoHanayome
+  + KarakaijozunoTakagisan
+  + Hakodume
+  + TonarinoKaibutukun
+  + BokutoKiminoTaisetsunaHanashi
+  and more...
 </details>
 
 
