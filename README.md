@@ -10,6 +10,7 @@
 <details>
   <summary>I love <strong>"MANGA"</strong>!</summary>
   my favorite titles
+  
   + BokurawaMinnaKawaisou
   + TonikakuKawaii
   + Gurandblue
@@ -22,6 +23,7 @@
   + Hakodume
   + TonarinoKaibutukun
   + BokutoKiminoTaisetsunaHanashi
+  
   and more...
 </details>
 
