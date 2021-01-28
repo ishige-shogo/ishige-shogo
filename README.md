@@ -2,6 +2,7 @@
 I love **"SARUBOBO"** !
 
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/rised/posts.svg)](http://qiita.com/rised)
+![](https://komarev.com/ghpvc/?username=ishige-shogo)
 
 <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
   <img align="center" src="https://raw.githubusercontent.com/ishige-shogo/ishige-shogo/main/profile-summary-card-output/github/0-profile-details.svg" height="225px" />
