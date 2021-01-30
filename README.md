@@ -1,23 +1,16 @@
 <details>
   <summary>I love <strong>"MANGA"</strong>!</summary>
-  my favorite titles
-  
-  + BokurawaMinnaKawaisou
-  + TonikakuKawaii
-  + Gurandblue
-  + D-flag
-  + Working!
-  + KaguyasamahaKokurasetai
-  + AkamegaKill
-  + GotoubunnoHanayome
-  + KarakaijozunoTakagisan
-  + Hakodume
-  + TonarinoKaibutukun
-  + BokutoKiminoTaisetsunaHanashi
-  + Rororro
-  
-  and more...
+ 
 </details>
+
+```
+my_favorite_titles = [BokurawaMinnaKawaisou, TonikakuKawaii, Gurandblue, D-flag, Working!, KaguyasamahaKokurasetai, AkamegaKill, GotoubunnoHanayome, KarakaijozunoTakagisan, Hakodume, TonarinoKaibutukun, BokutoKiminoTaisetsunaHanashi, Rororro]
+
+my_favorite_titles.each do |n|
+  puts "I recommend #{n}."
+end
+
+```
 
 ```
 const my_favorite_manga_type = 'Love&Comedy';
