@@ -79,3 +79,4 @@
   <img align="center" src="https://github-profile-trophy.vercel.app/?username=ishige-shogo&title=Joined2020,Commit,PullRequest,Repositories,Issues" height="150px" />
 </a>
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ishige-shogo&repo=taskn_app)](https://github.com/ishige-shogo/)
