@@ -1,10 +1,22 @@
 <details>
-  <summary>I love <strong>"MANGA"</strong>!</summary>
- 
-</details>
+  <summary>I love <strong>"MANGA"</strong>!(click here)</summary>
 
 ```
-my_favorite_titles = [BokurawaMinnaKawaisou, TonikakuKawaii, Gurandblue, D-flag, Working!, KaguyasamahaKokurasetai, AkamegaKill, GotoubunnoHanayome, KarakaijozunoTakagisan, Hakodume, TonarinoKaibutukun, BokutoKiminoTaisetsunaHanashi, Rororro]
+my_favorite_titles = [
+    BokurawaMinnaKawaisou, 
+    TonikakuKawaii, 
+    Gurandblue, 
+    D-flag, 
+    Working!, 
+    KaguyasamahaKokurasetai, 
+    AkamegaKill, 
+    GotoubunnoHanayome, 
+    KarakaijozunoTakagisan, 
+    Hakodume, 
+    TonarinoKaibutukun, 
+    BokutoKiminoTaisetsunaHanashi, 
+    Rororro,
+    ]
 
 my_favorite_titles.each do |n|
   puts "I recommend #{n}."
@@ -17,8 +29,10 @@ const my_favorite_manga_type = 'Love&Comedy';
 let my_most_favorite_title = 'GotoubunnoHanayome';
 ```
 
+</details>
+
 <details>
-  <summary>I love <strong>"SARUBOBO"</strong>!</summary>
+  <summary>I love <strong>"SARUBOBO"</strong>!(click here)</summary>
   
 　<!--サルぼぼのアスキーアート -->
  
