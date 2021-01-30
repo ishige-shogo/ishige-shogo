@@ -3,19 +3,19 @@
 
 ```
 my_favorite_titles = [
-    BokurawaMinnaKawaisou, 
-    TonikakuKawaii, 
-    Gurandblue, 
-    D-flag, 
-    Working!, 
-    KaguyasamahaKokurasetai, 
-    AkamegaKill, 
-    GotoubunnoHanayome, 
-    KarakaijozunoTakagisan, 
-    Hakodume, 
-    TonarinoKaibutukun, 
-    BokutoKiminoTaisetsunaHanashi, 
-    Rororro,
+    "BokurawaMinnaKawaisou", 
+    "TonikakuKawaii", 
+    "Gurandblue", 
+    "D-flag", 
+    "Working!", 
+    "KaguyasamahaKokurasetai", 
+    "AkamegaKill", 
+    "GotoubunnoHanayome", 
+    "KarakaijozunoTakagisan", 
+    "Hakodume", 
+    "TonarinoKaibutukun", 
+    "BokutoKiminoTaisetsunaHanashi", 
+    "Rororro",
     ]
 
 my_favorite_titles.each do |n|
