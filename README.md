@@ -1,5 +1,4 @@
 practice now!
-
 <a href="https://circleci.com" target="_blank"> 
   <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40"/> 
 </a> 
