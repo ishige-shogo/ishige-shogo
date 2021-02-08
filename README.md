@@ -1,4 +1,4 @@
-![THANK](https://user-images.githubusercontent.com/73116792/107164023-44118b00-69f0-11eb-8cca-885879ca975f.gif)
+![THANK (1)](https://user-images.githubusercontent.com/73116792/107164139-fd706080-69f0-11eb-9923-7bcabf63cb99.gif)
 
 practice now!
 <a href="https://circleci.com" target="_blank"> 
