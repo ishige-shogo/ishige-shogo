@@ -108,7 +108,7 @@ let my_most_favorite_title = 'GotoubunnoHanayome';
 
 <p align="center">
 <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-  <img align="center" src="https://raw.githubusercontent.com/ishige-shogo/ishige-shogo/main/profile-summary-card-output/github/0-profile-details.svg" height="220px" />
+  <img align="center" src="https://raw.githubusercontent.com/ishige-shogo/ishige-shogo/main/profile-summary-card-output/github/0-profile-details.svg" height="260px" />
 </a>
 </p>
 
