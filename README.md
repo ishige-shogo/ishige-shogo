@@ -98,19 +98,17 @@ let my_most_favorite_title = 'GotoubunnoHanayome';
 </p>
 
 <p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ishige-shogo&show_icons=true&hide_border=true" height="200px" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishige-shogo&layout=compact&hide_border=true" height="180px" />
+</p>
+
+<p align="center">
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=ishige-shogo&title=Joined2020,Commit,PullRequest,Repositories,Issues,Stars&no-frame=true" height="151px" />
+</p>
+
+<p align="center">
 <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
   <img align="center" src="https://raw.githubusercontent.com/ishige-shogo/ishige-shogo/main/profile-summary-card-output/github/0-profile-details.svg" height="220px" />
-</a>
-</p>
-
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ishige-shogo&show_icons=true&hide_border=true" height="158px" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishige-shogo&layout=compact&hide_border=true" />
-</p>
-
-<p align="center">
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=ishige-shogo&title=Joined2020,Commit,PullRequest,Repositories,Issues" height="151px" />
 </a>
 </p>
 
