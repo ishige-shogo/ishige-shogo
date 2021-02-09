@@ -2,7 +2,6 @@
 
 
 
-
 <details>
   <summary>I love <strong>"MANGA"</strong>!(click here)</summary>
 
@@ -43,6 +42,7 @@ let my_most_favorite_title = 'GotoubunnoHanayome';
  
   <pre style="font-size: 10px;line-height: 10px;">山山山山山山山山山山山山山山飛騨山山山山山山山山山山山山山山山山山山山<br>山山山山山山山山山山山山高騨騨騨飛飛騨騨騨騨山山山山山山山山山山山山山<br>山山山山山山山山山山騨騨騨騨騨飛飛飛飛飛飛飛飛騨騨山山山山山山山山山山<br>山山山山山山山山山山騨騨騨騨飛騨騨飛飛飛騨騨飛飛飛飛騨山山山山山山山山<br>山山山山山山山山山山高騨騨騨騨騨騨高高飛騨飛飛飛飛飛飛飛騨高山山山山山<br>山山山山山山山山山山山騨騨飛飛飛飛飛飛飛飛飛飛飛騨飛飛飛騨飛山山山山山<br>山山山山山山山山山山山騨飛飛飛飛飛飛飛飛飛飛飛飛飛騨飛飛騨騨飛山山山山<br>山山山山山山山山山山飛飛飛飛飛飛飛飛飛飛飛飛飛飛飛飛騨飛騨騨騨山山山山<br>山山山山山山山山山山騨飛飛飛飛飛飛飛飛飛飛飛飛飛飛飛騨飛騨騨騨騨山山山<br>山山山山山山山山山山飛飛飛飛飛飛飛飛飛飛飛飛飛飛飛飛飛騨騨騨騨騨騨山山<br>山山山山山山山山山山飛飛飛飛飛飛飛飛飛飛飛飛飛飛飛飛飛騨騨騨騨騨騨騨山<br>山山山山山山山山山山飛飛飛飛飛飛飛飛飛飛飛飛飛飛飛飛飛飛騨騨騨騨騨騨騨<br>山山山山山山山山山山飛飛飛飛飛飛飛飛飛飛飛飛飛飛飛飛飛飛騨騨騨騨騨飛山<br>山山山山山山山山山山飛飛飛飛飛飛飛飛飛飛飛飛飛飛飛飛飛飛騨騨騨飛高山山<br>山山山山山高騨山山山騨飛飛飛飛飛飛飛飛飛飛飛飛飛飛飛飛飛騨騨飛山山山山<br>山山山山山山高飛飛飛飛高飛飛飛飛飛飛飛飛飛飛飛飛飛飛飛騨騨山山山山山山<br>山山山山山山高飛飛飛飛飛飛飛飛飛飛飛飛飛飛飛飛飛飛飛飛騨山山山山山山山<br>山山山山山山山飛飛飛飛飛飛飛飛飛飛飛飛飛飛飛飛飛飛飛騨騨飛飛山山山山山<br>山山山山山山山山騨飛飛飛飛飛飛飛飛飛飛飛飛飛飛飛飛騨飛飛飛飛高山山山山<br>山山山山山山山山山騨飛飛騨騨飛飛飛飛飛飛飛飛飛騨飛飛飛飛飛飛山山山山山<br>山山山山山山山山山山騨騨高騨騨騨騨高高飛飛騨騨飛飛飛飛飛飛高山山山山山<br>山山山山山山山山山山騨高山高騨山飛山山飛飛飛飛飛飛飛飛飛高山山山山山山<br>山山山山山山山山山山騨高高騨騨山山山山飛飛飛飛騨飛飛飛高山山山山山山山<br>山山山山山山山山山山騨飛飛騨騨山山山山飛飛飛飛飛飛飛飛高山山山山山山山<br>山山山山山山山山山山飛飛飛飛高山山山山飛飛飛飛飛騨騨高山山山山山山山山<br>山山山山山山山山山騨飛飛騨騨山山騨高山飛山山飛飛騨山山山山山山山山山山<br>山山山山山山山山山騨飛飛騨騨山山山山山飛高高飛飛騨山山山山山山山山山山<br>山山山山山山山山飛飛山騨騨高山山山山飛飛飛飛飛騨山山山山山山山山山山山<br>山山山山山山山山飛飛山騨高山山山山山山飛飛飛飛騨山山山山山山山山山山山<br>山山山山山山高飛騨騨騨飛山山山山山山騨騨飛飛飛山山山山山山山山山山山山<br>山山山山高騨飛飛飛飛飛飛山山山山山山騨騨騨飛飛山山山山山山山山山山山山<br>山山騨騨飛飛飛飛飛飛飛飛山山飛山山山騨騨騨飛飛山山山山山山山山山山山山<br>騨飛飛飛飛飛飛飛飛飛飛飛騨騨騨山騨騨騨飛騨飛高山山山山山山山山山山山山<br>高高飛飛飛飛飛飛飛飛高山高騨騨騨騨飛飛飛飛飛飛山山山山山山山山山山山山<br>山山高高高高高高高高山山山高飛高山飛飛飛飛飛飛騨山山山山山山山山山山山<br>山山山山山山山山山山山山山山山山山山高飛飛飛飛騨山山山山山山山山山山山<br>山山山山山山山山山山山山山山山山山山山飛飛飛飛騨山山山山山山山山山山山<br>山山山山山山山山山山山山山山山山山山山山飛飛飛騨山山山山山山山山山山山<br>山山山山山山山山山山山山山山山山山山山山山飛飛騨山山山山山山山山山山山<br>山山山山山山山山山山山山山山山山山山山山山山飛騨山山山山山山山山山山山<br></pre>
 </details>
+
 
 <p align="center">
   <a href="http://qiita.com/rised">
@@ -97,20 +97,25 @@ let my_most_favorite_title = 'GotoubunnoHanayome';
 </a> 
 </p>
 
+<p align="center">
 <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
   <img align="center" src="https://raw.githubusercontent.com/ishige-shogo/ishige-shogo/main/profile-summary-card-output/github/0-profile-details.svg" height="220px" />
 </a>
+</p>
 
+<p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ishige-shogo&show_icons=true" height="158px" />
 </a>
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishige-shogo&layout=compact" />
 </a>
+</p>
 
+<p align="center">
 <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img align="center" src="https://github-profile-trophy.vercel.app/?username=ishige-shogo&title=Joined2020,Commit,PullRequest,Repositories,Issues" height="151px" />
 </a>
+</p>
 
 
