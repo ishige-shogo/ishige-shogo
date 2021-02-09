@@ -56,6 +56,8 @@ let my_most_favorite_title = 'GotoubunnoHanayome';
 
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/rised/posts.svg)](http://qiita.com/rised)
 ![](https://komarev.com/ghpvc/?username=ishige-shogo)
+
+<p align="center">
 <a href="https://git-scm.com/" target="_blank"> 
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
 </a> 
@@ -86,7 +88,7 @@ let my_most_favorite_title = 'GotoubunnoHanayome';
 <a href="https://www.mysql.com/" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
 </a> 
-
+</p>
 
 <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
   <img align="center" src="https://raw.githubusercontent.com/ishige-shogo/ishige-shogo/main/profile-summary-card-output/github/0-profile-details.svg" height="220px" />
