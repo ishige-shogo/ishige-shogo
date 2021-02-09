@@ -104,12 +104,8 @@ let my_most_favorite_title = 'GotoubunnoHanayome';
 </p>
 
 <p align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ishige-shogo&show_icons=true" height="158px" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishige-shogo&layout=compact" />
-</a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ishige-shogo&show_icons=true&hide_border=true" height="158px" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishige-shogo&layout=compact&hide_border=true" />
 </p>
 
 <p align="center">
