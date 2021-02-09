@@ -45,9 +45,10 @@ let my_most_favorite_title = 'GotoubunnoHanayome';
 </details>
 
 <p align="center">
-
-[![My Qiita posts](https://qiita-badge.apiapi.app/s/rised/posts.svg)](http://qiita.com/rised)
-![](https://komarev.com/ghpvc/?username=ishige-shogo)
+  <a href="http://qiita.com/rised">
+    <img src="https://qiita-badge.apiapi.app/s/rised/posts.svg"/> 
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=ishige-shogo"/> 
 </p>
 
 <h3 align="center">Practice Now!</h3>
