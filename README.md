@@ -1,15 +1,6 @@
 ![THANK (2)](https://user-images.githubusercontent.com/73116792/107174867-ab3e3800-6a0e-11eb-8607-7a8171b05468.gif)
 
-practice now!
-<a href="https://circleci.com" target="_blank"> 
-  <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40"/> 
-</a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-</a>
-<a href="https://vuejs.org/" target="_blank"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> 
-</a>
+
 
 
 <details>
@@ -53,9 +44,24 @@ let my_most_favorite_title = 'GotoubunnoHanayome';
   <pre style="font-size: 10px;line-height: 10px;">山山山山山山山山山山山山山山飛騨山山山山山山山山山山山山山山山山山山山<br>山山山山山山山山山山山山高騨騨騨飛飛騨騨騨騨山山山山山山山山山山山山山<br>山山山山山山山山山山騨騨騨騨騨飛飛飛飛飛飛飛飛騨騨山山山山山山山山山山<br>山山山山山山山山山山騨騨騨騨飛騨騨飛飛飛騨騨飛飛飛飛騨山山山山山山山山<br>山山山山山山山山山山高騨騨騨騨騨騨高高飛騨飛飛飛飛飛飛飛騨高山山山山山<br>山山山山山山山山山山山騨騨飛飛飛飛飛飛飛飛飛飛飛騨飛飛飛騨飛山山山山山<br>山山山山山山山山山山山騨飛飛飛飛飛飛飛飛飛飛飛飛飛騨飛飛騨騨飛山山山山<br>山山山山山山山山山山飛飛飛飛飛飛飛飛飛飛飛飛飛飛飛飛騨飛騨騨騨山山山山<br>山山山山山山山山山山騨飛飛飛飛飛飛飛飛飛飛飛飛飛飛飛騨飛騨騨騨騨山山山<br>山山山山山山山山山山飛飛飛飛飛飛飛飛飛飛飛飛飛飛飛飛飛騨騨騨騨騨騨山山<br>山山山山山山山山山山飛飛飛飛飛飛飛飛飛飛飛飛飛飛飛飛飛騨騨騨騨騨騨騨山<br>山山山山山山山山山山飛飛飛飛飛飛飛飛飛飛飛飛飛飛飛飛飛飛騨騨騨騨騨騨騨<br>山山山山山山山山山山飛飛飛飛飛飛飛飛飛飛飛飛飛飛飛飛飛飛騨騨騨騨騨飛山<br>山山山山山山山山山山飛飛飛飛飛飛飛飛飛飛飛飛飛飛飛飛飛飛騨騨騨飛高山山<br>山山山山山高騨山山山騨飛飛飛飛飛飛飛飛飛飛飛飛飛飛飛飛飛騨騨飛山山山山<br>山山山山山山高飛飛飛飛高飛飛飛飛飛飛飛飛飛飛飛飛飛飛飛騨騨山山山山山山<br>山山山山山山高飛飛飛飛飛飛飛飛飛飛飛飛飛飛飛飛飛飛飛飛騨山山山山山山山<br>山山山山山山山飛飛飛飛飛飛飛飛飛飛飛飛飛飛飛飛飛飛飛騨騨飛飛山山山山山<br>山山山山山山山山騨飛飛飛飛飛飛飛飛飛飛飛飛飛飛飛飛騨飛飛飛飛高山山山山<br>山山山山山山山山山騨飛飛騨騨飛飛飛飛飛飛飛飛飛騨飛飛飛飛飛飛山山山山山<br>山山山山山山山山山山騨騨高騨騨騨騨高高飛飛騨騨飛飛飛飛飛飛高山山山山山<br>山山山山山山山山山山騨高山高騨山飛山山飛飛飛飛飛飛飛飛飛高山山山山山山<br>山山山山山山山山山山騨高高騨騨山山山山飛飛飛飛騨飛飛飛高山山山山山山山<br>山山山山山山山山山山騨飛飛騨騨山山山山飛飛飛飛飛飛飛飛高山山山山山山山<br>山山山山山山山山山山飛飛飛飛高山山山山飛飛飛飛飛騨騨高山山山山山山山山<br>山山山山山山山山山騨飛飛騨騨山山騨高山飛山山飛飛騨山山山山山山山山山山<br>山山山山山山山山山騨飛飛騨騨山山山山山飛高高飛飛騨山山山山山山山山山山<br>山山山山山山山山飛飛山騨騨高山山山山飛飛飛飛飛騨山山山山山山山山山山山<br>山山山山山山山山飛飛山騨高山山山山山山飛飛飛飛騨山山山山山山山山山山山<br>山山山山山山高飛騨騨騨飛山山山山山山騨騨飛飛飛山山山山山山山山山山山山<br>山山山山高騨飛飛飛飛飛飛山山山山山山騨騨騨飛飛山山山山山山山山山山山山<br>山山騨騨飛飛飛飛飛飛飛飛山山飛山山山騨騨騨飛飛山山山山山山山山山山山山<br>騨飛飛飛飛飛飛飛飛飛飛飛騨騨騨山騨騨騨飛騨飛高山山山山山山山山山山山山<br>高高飛飛飛飛飛飛飛飛高山高騨騨騨騨飛飛飛飛飛飛山山山山山山山山山山山山<br>山山高高高高高高高高山山山高飛高山飛飛飛飛飛飛騨山山山山山山山山山山山<br>山山山山山山山山山山山山山山山山山山高飛飛飛飛騨山山山山山山山山山山山<br>山山山山山山山山山山山山山山山山山山山飛飛飛飛騨山山山山山山山山山山山<br>山山山山山山山山山山山山山山山山山山山山飛飛飛騨山山山山山山山山山山山<br>山山山山山山山山山山山山山山山山山山山山山飛飛騨山山山山山山山山山山山<br>山山山山山山山山山山山山山山山山山山山山山山飛騨山山山山山山山山山山山<br></pre>
 </details>
 
+<p align="center">
 
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/rised/posts.svg)](http://qiita.com/rised)
 ![](https://komarev.com/ghpvc/?username=ishige-shogo)
+</p>
+
+<h3 align="center">Practice Now!</h3>
+<p align="center">
+<a href="https://circleci.com" target="_blank"> 
+  <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40"/> 
+</a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+</a>
+<a href="https://vuejs.org/" target="_blank"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> 
+</a>
+</p>
 
 <p align="center">
 <a href="https://git-scm.com/" target="_blank"> 
