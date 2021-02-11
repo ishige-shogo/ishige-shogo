@@ -107,13 +107,13 @@ let my_most_favorite_title = 'GotoubunnoHanayome';
 </p>
 
 <p align="center">
+  <img src="https://github.com/ishige-shogo/ishige-shogo/blob/main/images/stat.svg" alt="WakaTime"/>
+</p>
+
+<p align="center">
 <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
   <img align="center" src="https://raw.githubusercontent.com/ishige-shogo/ishige-shogo/main/profile-summary-card-output/github/0-profile-details.svg" height="260px" />
 </a>
 </p>
 
-<h3 align="center">WakaTime</h3>
-<p align="center">
-  <img src="https://github.com/ishige-shogo/ishige-shogo/blob/main/images/stat.svg" alt="WakaTime"/>
-</p>
 
