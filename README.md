@@ -1,6 +1,3 @@
-![THANK (2)](https://user-images.githubusercontent.com/73116792/107174867-ab3e3800-6a0e-11eb-8607-7a8171b05468.gif)
-
-
 
 <details>
   <summary>I love <strong>"MANGA"</strong>!(click here)</summary>
