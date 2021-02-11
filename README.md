@@ -109,15 +109,14 @@ let my_most_favorite_title = 'GotoubunnoHanayome';
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishige-shogo&layout=compact&hide_border=true" width="44%" />
 </p>
 
-<h3 align="center">Started WakaTime from 2021/02/11</h3>
-<p align="center">
-  <img align="center" src="https://github.com/ishige-shogo/ishige-shogo/blob/main/images/stat.svg" alt="Alternative Text"/>
-</p>
-
 <p align="center">
 <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
   <img align="center" src="https://raw.githubusercontent.com/ishige-shogo/ishige-shogo/main/profile-summary-card-output/github/0-profile-details.svg" height="260px" />
 </a>
 </p>
 
+<h3 align="center">WakaTime</h3>
+<p align="center">
+  <img src="https://github.com/ishige-shogo/ishige-shogo/blob/main/images/stat.svg" alt="WakaTime"/>
+</p>
 
