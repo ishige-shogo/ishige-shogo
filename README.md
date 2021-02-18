@@ -102,8 +102,8 @@ let my_most_favorite_title = 'GotoubunnoHanayome';
 </p>
 
 <p align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=ishige-shogo&show_icons=true&hide_border=true" width="51%"  />
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishige-shogo&layout=compact&hide_border=true&hide=html,scss,css,coffeescript,slim&langs_count=10" width="44%" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ishige-shogo&show_icons=true&hide_border=true" width="51%"  />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishige-shogo&layout=compact&hide_border=true&hide=html,scss,css,coffeescript,slim&langs_count=10" width="44%" />
 </p>
 
 <p align="center">
