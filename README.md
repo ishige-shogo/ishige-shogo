@@ -106,10 +106,9 @@ let my_most_favorite_title = 'GotoubunnoHanayome';
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishige-shogo&layout=compact&hide_border=true&hide=html,scss,css,coffeescript,slim&langs_count=10" width="44%" />
 </p>
 
-
 <p align="center">
   <h3 align="center">
-  Learning time of programming by WakaTime
+   Using "WakaTime"
   </h3>
   <img src="https://github.com/ishige-shogo/ishige-shogo/blob/main/images/stat.svg" alt="WakaTime"/>
 </p>
