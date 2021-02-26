@@ -4,6 +4,7 @@
 
 ```
 my_favorite_titles = [
+
     "BokurawaMinnaKawaisou", 
     "TonikakuKawaii", 
     "Gurandblue", 
